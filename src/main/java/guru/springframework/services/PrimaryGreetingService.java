@@ -11,6 +11,6 @@ public class PrimaryGreetingService implements GreetingService {
 
     @Override
     public String sayGreeting() {
-        return "Hello - Primary Greeting Service";
+        return "Hello - Primary Greeting Service!";
     }
 }
